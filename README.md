@@ -1,4 +1,4 @@
-# Proiect-POO
+# Tema 0
 
 ## Simularea unei rețele de transport public urban
 
@@ -11,3 +11,9 @@ Din aceasta derivă trei clase concrete: Autobuz, Tramvai, Metrou. Fiecare tip d
 Aplicația gestionează o colecție de vehicule care formează rețeaua de transport. Utilizatorul poate încărca date din fișier, adăuga sau elimina vehicule și realiza interogări după diferite criterii (tip, capacitate, viteză, timp estimat). Rezultatele sunt obținute prin utilizarea polimorfismului și a funcțiilor virtuale apelate prin pointeri la clasa de bază.
 
 Proiectul evidențiază utilizarea moștenirii, polimorfismului, funcțiilor virtuale pure, excepțiilor personalizate și a pointerilor inteligenți pentru gestionarea corectă a obiectelor din cadrul rețelei.
+
+# Tema 1
+
+# Tema 2
+
+# Tema 3
